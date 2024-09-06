@@ -1,3 +1,3 @@
-exports.soma = (a,b) => a+b+1;
+exports.soma = (a,b) => a+b;
 
 exports.subtracao = (a,b) => a-b;
